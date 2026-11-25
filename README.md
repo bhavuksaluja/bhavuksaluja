@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bhavuk 👋
 
-<!--
-**bhavuksaluja/bhavuksaluja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student building full-stack web applications.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I work with **React, TypeScript, Node.js, Express, and MongoDB**.
+- 📚 I’m building a **Student Attendance Management System**.
+- 🤝 I enjoy learning through projects and collaborating with others.
+
+### Featured project
+
+**[Student Attendance Management System](https://github.com/bhavuksaluja/Student-Attendance-Management-System)**
+
+A full-stack app for managing classes, students, attendance, and reports.
+
+### Tech stack
+
+`React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Git` · `GitHub`
