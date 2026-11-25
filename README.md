@@ -1,19 +1,38 @@
+<div align="center">
+
 # Hi, I'm Bhavuk 👋
 
-💻 Computer Science student building full-stack web applications.
+### Computer Science student · Full-stack web development
 
-### About me
+I build web apps with **React, TypeScript, Node.js, Express, and MongoDB**.
 
-- 🌱 I work with **React, TypeScript, Node.js, Express, and MongoDB**.
-- 📚 I’m building a **Student Attendance Management System**.
-- 🤝 I enjoy learning through projects and collaborating with others.
+[![GitHub](https://img.shields.io/badge/GitHub-bhavuksaluja-181717?style=for-the-badge&logo=github)](https://github.com/bhavuksaluja)
 
-### Featured project
+</div>
 
-**[Student Attendance Management System](https://github.com/bhavuksaluja/Student-Attendance-Management-System)**
+---
 
-A full-stack app for managing classes, students, attendance, and reports.
+## About me
 
-### Tech stack
+- 🌱 Exploring full-stack development and building practical projects.
+- 📚 Currently working on a student attendance management app.
+- 🤝 Interested in learning through collaboration and open source.
 
-`React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Git` · `GitHub`
+## Featured projects
+
+| Project | What it does |
+| --- | --- |
+| [**Student Attendance Management System**](https://github.com/bhavuksaluja/Student-Attendance-Management-System) | Full-stack app for managing classes, students, attendance, and reports. |
+| [**Code Radar Solutions**](https://github.com/bhavuksaluja/Code-Radar-Solutions) | Solutions to problems from Code Radar. |
+
+## Tech stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile!
+
+</div>
